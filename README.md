@@ -1,4 +1,4 @@
-# GluttonousSnake
+# TheSnake
 The traditional snake game written in Java
 
 ![GluttonousSnake](img/GluttonousSnake1.png?raw=true "screenshot1")                               
